@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4cf2d7f32070afc4fa985118e227a270
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - backgroundMusic: {fileID: 8300000, guid: c63d681733f9b754f8886032b6f4825b, type: 3}
+  - combatMusic: {fileID: 8300000, guid: eddb9f4024c10b543a26d681015c7d74, type: 3}
+  - deathMusic: {fileID: 8300000, guid: 6e257a8d36f58a048aa32927f598c68d, type: 3}
+  - completeMusic: {fileID: 8300000, guid: c75f5106d006e684b83722d5dce6915b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

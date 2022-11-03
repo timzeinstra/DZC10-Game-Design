@@ -3,12 +3,20 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - SpawnPoint
+  - Rooms
+  - enemy
+  - Bullet
+  - RoomPrefab
+  - BossBullet
+  - Health
+  - DiedScreen
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Walls
   - Water
   - UI
   - 
@@ -38,6 +46,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Lower1
+    uniqueID: 1618250865
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
